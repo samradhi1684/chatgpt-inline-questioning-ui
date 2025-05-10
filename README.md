@@ -4,7 +4,7 @@ A simple prototype that improves AI chat UX by allowing inline followup question
 
 ## Built with
 
-- Base UI : ['chatgpt-minimal'] (https://github.com/blrchen/chatgpt-minimal)
+- Base UI : ['chatgpt-minimal'](https://github.com/blrchen/chatgpt-minimal)
 - OpenRouter API (OpenAI-compatible)
 - Next.js + React
 
