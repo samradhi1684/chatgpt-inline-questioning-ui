@@ -20,5 +20,5 @@ The chat works like it does, but there a 💬 icon beside each section of the re
 
 ## Credits
 
-- **Base UI** : Built on top of the open-source project ['chatgpt-minimal'](https://github.com/blrchen/chatgpt-minimal)
-- **Feature Extension**
+- **Base UI** : Built on top of the open-source project ['chatgpt-minimal'](https://github.com/blrchen/chatgpt-minimal) by ['@blrchen'](https://github.com/blrchen)
+- **Feature Extension** : Added the inline questioning feature by ['@samradhi1684'](https://github.com/samradhi1684)
